@@ -24,7 +24,7 @@ I love building modern web apps that are fast, accessible, and thoughtfully desi
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Caleb-Kiune&theme=flat&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Caleb-Kiune&theme=flat&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -34,7 +34,7 @@ I love building modern web apps that are fast, accessible, and thoughtfully desi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Caleb-Kiune&show_icons=true&theme=transparent&hide_border=true" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caleb-Kiune&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Caleb-Kiune&theme=transparent&hide_border=true" height="160" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Caleb-Kiune&theme=transparent&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
 
 ---
