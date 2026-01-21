@@ -44,7 +44,7 @@ I bridge the gap between complex business logic and clean software. With over **
 *A full-stack e-commerce platform for premium footwear with secure checkout and modern user experience.*
 - **Stack:** Next.js, TypeScript, Prisma, Tailwind CSS, PostgreSQL.
 - **Key Features:** Live checkout integration, secure authentication, responsive design, database management.
-- **[View Live Demo](https://happy-happy-feet.vercel.app)** | **[View Source Code](https://github.com/Caleb-Kiune/happy-happy-feet)**
+- **[View Live Demo](https://happy-happy-feet.vercel.app)** 
 
 ---
 
