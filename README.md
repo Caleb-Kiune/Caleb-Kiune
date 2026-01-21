@@ -1,30 +1,41 @@
 <h2 align="center">Hey there 👋, I'm Caleb Kiune</h2>
-<p align="center">🚀 Full Stack Developer | 🧠 Problem Solver | 🛠️ Clean Code Enthusiast</p>
+<p align="center">🚀 Full Stack Developer | 💼 5+ Years Insurance Industry Exp. | 🛠️ T3 Stack Specialist</p>
+
+<p align="center">
+  <a href="mailto:calebkiune@gmail.com">
+    <img src="https://img.shields.io/badge/Available%20for-Freelance%20Projects-success?style=for-the-badge" alt="Available for Freelance">
+  </a>
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-I'm **Caleb**, a passionate full stack developer from **Nairobi, Kenya 🇰🇪**.  
-I love building modern web apps that are fast, accessible, and thoughtfully designed.  
+I'm **Caleb**, a Full Stack Developer based in **Nairobi, Kenya 🇰🇪**.
 
-💡 I enjoy working with **React**, **Next.js**, and **Flask**, and I'm always learning how to make better software — not just more code.  
-🎯 My current focus: crafting scalable frontends and improving backend architecture.
+I bridge the gap between complex business logic and clean software. With over **5 years of experience in the Insurance Industry**, I understand that code is just a tool to solve business problems. I am currently transitioning this domain expertise into building scalable SaaS applications and custom digital solutions.
+
+**My Focus:**
+* **Building:** High-performance web apps using the T3 Stack (Next.js, TypeScript, Prisma).
+* **Solving:** Digitizing manual workflows and creating custom business tools.
+* **Learning:** continuously improving backend architecture and system design.
+
+---
+
+### 🚀 Featured Project
+
+**[Happy Happy Feet](https://happy-happy-feet.vercel.app)**
+*A full-stack e-commerce platform built with modern web technologies.*
+- **Stack:** Next.js, TypeScript, Prisma, Tailwind CSS, PostgreSQL.
+- **Key Features:** Live checkout integration, secure authentication, and database management.
+- **[View Live Demo](https://happy-happy-feet.vercel.app)** | **[View Source Code](https://github.com/Caleb-Kiune/happy-happy-feet)**
 
 ---
 
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,nodejs,flask,python,postgres,git,github,docker,vercel,figma" alt="My Tech Stack" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy-fork-two.vercel.app/?username=Caleb-Kiune&theme=flat&no-frame=true&margin-w=15&column=6" alt="GitHub Trophies" />
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,prisma,postgres,docker,git,github,vercel,figma" alt="My Tech Stack" />
 </p>
 
 ---
@@ -34,7 +45,6 @@ I love building modern web apps that are fast, accessible, and thoughtfully desi
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Caleb-Kiune&show_icons=true&theme=transparent&hide_border=true" height="160" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caleb-Kiune&layout=compact&theme=transparent&hide_border=true" height="160" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com/?user=Caleb-Kiune&theme=transparent&hide_border=true" height="160" alt="GitHub Streak" />
 </p>
 
 ---
