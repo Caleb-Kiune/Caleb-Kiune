@@ -2,7 +2,11 @@
 <p align="center">🚀 Full Stack Developer | 💼 5+ Years Insurance Industry Exp. | 🛠️ T3 Stack Specialist</p>
 
 <p align="center">
-  <a href="mailto:calebkiune@gmail.com">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Caleb-Kiune.Caleb-Kiune" alt="Visitors"/>
+</p>
+
+<p align="center">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=calebkiune@gmail.com&su=Freelance%20Inquiry" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Available%20for-Freelance%20Projects-success?style=for-the-badge" alt="Available for Freelance">
   </a>
 </p>
@@ -22,12 +26,24 @@ I bridge the gap between complex business logic and clean software. With over **
 
 ---
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
+
+**[Kentab Insurance Agency](https://www.kentabinsurance.com)**
+*A production-grade insurance agency platform digitizing quotes, products, and client interactions for a Kenyan business.*
+- **Stack:** Next.js 14 (App Router), TypeScript, Tailwind CSS, Shadcn/Radix UI, Framer Motion, Nodemailer.
+- **Key Features:** Multi-step quote system with validation, comprehensive product catalog, automated emails, live chat support.
+- **[View Live Demo](https://www.kentabinsurance.com)** | **[View Source Code](https://github.com/Caleb-Kiune/kentab)**
+
+**[Eco Plains Safaris](https://eco-plains-safaris.vercel.app/)**
+*A premium booking platform for eco-friendly safaris in East Africa, focused on immersive tourism experiences.*
+- **Stack:** React 19, React Router, Tailwind/CSS, Framer Motion, Lenis, Embla Carousel/Swiper.
+- **Key Features:** Advanced filtering (country/duration/price), smooth animations, responsive galleries, WhatsApp booking integration.
+- **[View Live Demo](https://eco-plains-safaris.vercel.app/)** | **[View Source Code](https://github.com/Caleb-Kiune/eco-plains-safaris)**
 
 **[Happy Happy Feet](https://happy-happy-feet.vercel.app)**
-*A full-stack e-commerce platform built with modern web technologies.*
+*A full-stack e-commerce platform for premium footwear with secure checkout and modern user experience.*
 - **Stack:** Next.js, TypeScript, Prisma, Tailwind CSS, PostgreSQL.
-- **Key Features:** Live checkout integration, secure authentication, and database management.
+- **Key Features:** Live checkout integration, secure authentication, responsive design, database management.
 - **[View Live Demo](https://happy-happy-feet.vercel.app)** | **[View Source Code](https://github.com/Caleb-Kiune/happy-happy-feet)**
 
 ---
