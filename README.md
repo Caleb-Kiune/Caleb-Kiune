@@ -22,7 +22,7 @@ I bridge the gap between complex business logic and clean software. With over **
 **My Focus:**
 * **Building:** High-performance web apps using the T3 Stack (Next.js, TypeScript, Prisma).
 * **Solving:** Digitizing manual workflows and creating custom business tools.
-* **Learning:** continuously improving backend architecture and system design.
+* **Learning:** Continuously improving backend architecture and system design.
 
 ---
 
@@ -32,13 +32,13 @@ I bridge the gap between complex business logic and clean software. With over **
 *A production-grade insurance agency platform digitizing quotes, products, and client interactions for a Kenyan business.*
 - **Stack:** Next.js 14 (App Router), TypeScript, Tailwind CSS, Shadcn/Radix UI, Framer Motion, Nodemailer.
 - **Key Features:** Multi-step quote system with validation, comprehensive product catalog, automated emails, live chat support.
-- **[View Live Demo](https://www.kentabinsurance.com)** | **[View Source Code](https://github.com/Caleb-Kiune/kentab)**
+- **[View Live Demo](https://www.kentabinsurance.com)** | 🔒 *Source: Private (Client Work)*
 
 **[Eco Plains Safaris](https://eco-plains-safaris.vercel.app/)**
 *A premium booking platform for eco-friendly safaris in East Africa, focused on immersive tourism experiences.*
 - **Stack:** React 19, React Router, Tailwind/CSS, Framer Motion, Lenis, Embla Carousel/Swiper.
 - **Key Features:** Advanced filtering (country/duration/price), smooth animations, responsive galleries, WhatsApp booking integration.
-- **[View Live Demo](https://eco-plains-safaris.vercel.app/)** | **[View Source Code](https://github.com/Caleb-Kiune/eco-plains-safaris)**
+- **[View Live Demo](https://eco-plains-safaris.vercel.app/)** | 🔒 *Source: Private (Client Work)*
 
 **[Happy Happy Feet](https://happy-happy-feet.vercel.app)**
 *A full-stack e-commerce platform for premium footwear with secure checkout and modern user experience.*
