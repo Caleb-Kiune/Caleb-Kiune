@@ -1,5 +1,5 @@
 <h2 align="center">Hey there 👋, I'm Caleb Kiune</h2>
-<p align="center">🚀 Full Stack Developer | 💼 5+ Years Insurance Industry Exp. | 🛠️ T3 Stack Specialist</p>
+<p align="center"> Full Stack Developer |  5+ Years Insurance Industry Exp.</p>
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Caleb-Kiune.Caleb-Kiune" alt="Visitors"/>
